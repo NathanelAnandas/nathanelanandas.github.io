@@ -75,11 +75,11 @@ content:
     content:
       - layout: left
         title: GOSHAR VENTURES PVT LTD
-        link: ONE BKC, B wing 701, BKC Bandra East, Mumbai - 400051
-        # link_text: boringcompany.com
+        link: https://goo.gl/maps/zFguQtRsJeYbyvhz8
+         link_text: ONE BKC, B wing 701, BKC Bandra East, Mumbai - 400051
         sub_title: Outsource Manager
         caption: August 2017 - May 2020
-        title: >
+        quote: >
           Job profile
         description: | # this will include new lines to allow paragraphs
             Coordinating with Proprietor and Partners of the company for
@@ -98,11 +98,11 @@ content:
     content:
       - layout: left
         title: ARIISTO GROUP
-        link: N.S. Phadke Road, Near East West flyover Andheri (e) Mumbai-4000069
-        # link_text: boringcompany.com
+        link: https://goo.gl/maps/pfh1TcuBbHia1XDW6
+         link_text: N.S. Phadke Road, Near East West flyover Andheri (e) Mumbai-4000069
         sub_title: Liasoning Executive
         caption: April 2011 - August 2017
-        title: >
+        quote: >
           Job profile
         description: | # this will include new lines to allow paragraphs
             Coordinating with Directors of the company for S.R.A.,BMC
@@ -120,50 +120,125 @@ content:
     content:
         - layout: left
           title: Sheetal Group of Companies
-          link: Sheetal Estates, Grant Road Mumbai-07
-          # link_text: boringcompany.com
+          link: https://goo.gl/maps/7LTUTXQvdZ2j5GhN8
+           link_text: Sheetal Estates, Grant Road Mumbai-07
           sub_title: Project Coordinator
           caption: February 2005 - March 2011
-          title: >
+          quote: >
             Job profile
           description:  | # this will include new lines to allow paragraphs
               Coordinating with different Directors/Partners of the
               Company.Coordinating with Solicitors/Lawyers/Advocates 
               for legal matters of company Coordinating with Consultants
               & Architects. Coordinating with Site In charge/Supervisor & Tenants. 
-          title: >
-            Liasoning
-          description:  | # this will include new lines to allow paragraphs
+
+              Liasoning:
+
               Liasoning with government officials like BMC, MHADA, MMRDA, SRA , COLLECTOR and other local
               government officials for statutory compliance, liaison with legal authorities fro compliance and information.
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: left
+        title: Parasrampuria Group
+        link: https://goo.gl/maps/BQ6K6nuVoMZo3J3N7
+         link_text: 10TH Floor Regent Chamber Nariman Point Mumbai-21
+        sub_title: Administration Officer
+        caption: September 1991 - February 2005
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+          Office management Recruitment of Class IV cadre viz:
+          Drivers, Cleaners, Mechanics, Sweepers, Peons after assessing the
+          Requirement. Assigning duties of Class IV employees.
+          Ensure Maintenance of cleanliness and hygiene in and around the
+          office premises at all times. Manage stationery requirements,
+          negotiate with vendors for Stationery, approve purchase orders,
+          bills and other payments for stationery, and ensure timely
+          availability and distribution of stationery to staff.
 
-        
+          Liasoning:
 
-  - title: Education # Title for the section
+          Liasoning with government officials like MSEB (Electricity) MTNL (telephone lines, leased lines, hotlines),
+          MIDC (Industrial development issues) other local government officials for statutory compliance, liaison with
+          legal authorities fro compliance and information exchange.
+
+          Fleet management:
+
+          Maintain a database of vehicles of the company.
+          Ensure that files with relevant documents along with respective driving licenses are on record. Keep abreast of
+          laws, regulations pertaining to vehicles viz, registration services, insurance, maintenance, etc.
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: left
+        title: Bush India Limited
+        link: https://goo.gl/maps/eBkBSPN9iRVYw6Wc7
+         link_text: 3rd floor Zenith tin works opp. Race Course gate no.6 Mahalaxami Mumbai -24
+        sub_title: Office Assistant
+        caption: June 1991 - September 1991
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+          Filing Job, Record keeping of all branches on all India
+          Basis, providing records to Auditors and Accountants, etc
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: left
+        title: Usmania Bros
+        link: https://goo.gl/maps/3bzVRjqtEA9fKd66A
+         link_text: 154 Quay street 4th lane corner Darukhana Reay Road Mumbai -10
+        sub_title: General Assistant
+        caption: June 1985 - June 1990
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+          Making delivery challans, looking after loading and
+          Unloading banking, payment collections etc.
+
+  - title: Qualification # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Mumbai University
+        #caption: 2010 - 2013
+        sub_title: B.Com
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          The University of Mumbai (known earlier as University of Bombay) is one of the oldest and premier Universities in India est. in 1857.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+        #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Professional Qualification # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        #title: Mumbai University
+        #caption: 2010 - 2013
+        #sub_title: B.Com
+        #quote: >
+        #  The University of Mumbai (known earlier as University of Bombay) is one of the oldest and premier Universities in India est. in 1857.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Passed Drawing Examination of Govt.of Maharashtra
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Elementary
 
+          Intermediate
+          
+          NCC
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my Qualification and Work Experience I am also proficient in
+      - Languages : English, Hindi, Marathi, Kannada, Telugu, Gujarati,
+                    Tamil, Malayalam, Bhojpuri & Tulu.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      And i also enjoy
+      - Painting
+      - Singing
 
 # Footer
 footer_show_references: true
