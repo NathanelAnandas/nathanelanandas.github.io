@@ -78,7 +78,7 @@ content:
         link: https://goo.gl/maps/zFguQtRsJeYbyvhz8
         link_text: ONE BKC, B wing 701, BKC Bandra East, Mumbai - 400051
         sub_title: Outsource Manager
-        caption: August 2017 - May 2020
+        caption: August 2017 - Current
         quote: >
           Job profile
         description: | # this will include new lines to allow paragraphs
@@ -203,7 +203,7 @@ content:
       - layout: left
         title: Mumbai University
         #caption: 2010 - 2013
-        sub_title: B.Com
+        sub_title: F.Y.B.Com
         quote: >
           The University of Mumbai (known earlier as University of Bombay) is one of the oldest and premier Universities in India est. in 1857.
         #description: | # this will include new lines to allow paragraphs
