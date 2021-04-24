@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title: GOSHAR VENTURES PVT LTD
-        link: boringcompany.com
+#        link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Outsource Manager
         caption: August 2017 - May 2020
@@ -93,6 +93,26 @@ content:
             Roads, (Parking lots)
             Co-Op. HSG. Registration and Charity commissioner off.
             work
+
+      - layout: left
+        title: ARIISTO GROUP
+#        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Liasoning Executive
+        caption: April 2011 - August 2017
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+            Coordinating with Directors of the company for S.R.A.,BMC
+            H.O. Mantralaye, MMRDA
+            Independently doing City Survey Office work (P.R.C.name
+            changing, C.T.S. plans,survey of land, subdivision,amalgamations)
+            All sub-Registrar off’s work including old customs & IGR pune.
+            Talati & Tahasildhar off’s all work (all over Maharashtra)
+            BMC Off”s All Wards Licences-Shops, Factories, Permissions-
+            Hoardings, neon sign different types display etc.
+            HEW, Water-department, Roads,(Parking lots) Colony off. work
+            Co-Op. HSG. Registration, Charity commissioner off. work
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
