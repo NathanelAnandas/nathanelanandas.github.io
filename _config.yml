@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title: GOSHAR VENTURES PVT LTD
-#        link: boringcompany.com
+        link: ONE BKC, B wing 701, BKC Bandra East, Mumbai - 400051
         # link_text: boringcompany.com
         sub_title: Outsource Manager
         caption: August 2017 - May 2020
@@ -98,7 +98,7 @@ content:
     content:
       - layout: left
         title: ARIISTO GROUP
-#        link: boringcompany.com
+        link: N.S. Phadke Road, Near East West flyover Andheri (e) Mumbai-4000069
         # link_text: boringcompany.com
         sub_title: Liasoning Executive
         caption: April 2011 - August 2017
@@ -115,7 +115,29 @@ content:
             Hoardings, neon sign different types display etc.
             HEW, Water-department, Roads,(Parking lots) Colony off. work
             Co-Op. HSG. Registration, Charity commissioner off. work
-
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+        - layout: left
+        title: Sheetal Group of Companies
+        link: Sheetal Estates, Grant Road Mumbai-07
+        # link_text: boringcompany.com
+        sub_title: Project Coordinator
+        caption: February 2005 - March 2011
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+            Coordinating with different Directors/Partners of the
+            Company.
+            Coordinating with Solicitors/Lawyers/Advocates for legal matters
+            of company
+            Coordinating with Consultants & Architects.
+            Coordinating with Site In charge/Supervisor & Tenants.    
+        quote: >
+          Liasoning
+        description: |
+          Liasoning with government officials like BMC, MHADA, MMRDA, SRA , COLLECTOR and other local
+          government officials for statutory compliance, liaison with legal authorities fro compliance and information.
 
         
 
