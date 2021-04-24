@@ -114,6 +114,53 @@ content:
             HEW, Water-department, Roads,(Parking lots) Colony off. work
             Co-Op. HSG. Registration, Charity commissioner off. work
 
+        - layout: left
+        title: Sheetal Group of Companies
+#        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Project Coordinator
+        caption: February 2005 - March 2011
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+            Coordinating with different Directors/Partners of the
+            Company.
+            Coordinating with Solicitors/Lawyers/Advocates for legal matters
+            of company
+            Coordinating with Consultants & Architects.
+            Coordinating with Site In charge/Supervisor & Tenants.    
+        quote: >
+          Liasoning
+        description: |
+          Liasoning with government officials like BMC, MHADA, MMRDA, SRA , COLLECTOR and other local
+          government officials for statutory compliance, liaison with legal authorities fro compliance and information.
+
+        - layout: left
+        title: Parasrampuria Group
+#        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Administration Officer
+        caption: September 1991 - February 2005
+        quote: >
+          Job profile
+        description: | # this will include new lines to allow paragraphs
+          Office management Recruitment of Class IV cadre viz:
+          Drivers, Cleaners, Mechanics, Sweepers, Peons after assessing the
+          Requirement. Assigning duties of Class IV employees.
+          Ensure Maintenance of cleanliness and hygiene in and around the
+          office premises at all times. Manage stationery requirements,
+          negotiate with vendors for Stationery, approve purchase orders,
+          bills and other payments for stationery, and ensure timely
+          availability and distribution of stationery to staff.
+        quote: >
+          Liasoning
+        description: |
+          Liasoning with government officials like MSEB (Electricity) MTNL (telephone lines, leased lines, hotlines),
+          MIDC (Industrial development issues) other local government officials for statutory compliance, liaison with
+          legal authorities fro compliance and information exchange.
+
+        
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
