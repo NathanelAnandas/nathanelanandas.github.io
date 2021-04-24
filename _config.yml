@@ -119,25 +119,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
         - layout: left
-        title: Sheetal Group of Companies
-        link: Sheetal Estates, Grant Road Mumbai-07
-        # link_text: boringcompany.com
-        sub_title: Project Coordinator
-        caption: February 2005 - March 2011
-        quote: >
-          Job profile
-        description: | # this will include new lines to allow paragraphs
-            Coordinating with different Directors/Partners of the
-            Company.
-            Coordinating with Solicitors/Lawyers/Advocates for legal matters
-            of company
-            Coordinating with Consultants & Architects.
-            Coordinating with Site In charge/Supervisor & Tenants.    
-        quote: >
-          Liasoning
-        description: |
-          Liasoning with government officials like BMC, MHADA, MMRDA, SRA , COLLECTOR and other local
-          government officials for statutory compliance, liaison with legal authorities fro compliance and information.
+          title: Sheetal Group of Companies
+          link: Sheetal Estates, Grant Road Mumbai-07
+          # link_text: boringcompany.com
+          sub_title: Project Coordinator
+          caption: February 2005 - March 2011
+          quote: >
+            Job profile
+          description: | # this will include new lines to allow paragraphs
+              Coordinating with different Directors/Partners of the
+              Company.
+              Coordinating with Solicitors/Lawyers/Advocates for legal matters
+              of company
+              Coordinating with Consultants & Architects.
+              Coordinating with Site In charge/Supervisor & Tenants.    
+          quote: >
+            Liasoning
+          description: |
+            Liasoning with government officials like BMC, MHADA, MMRDA, SRA , COLLECTOR and other local
+            government officials for statutory compliance, liaison with legal authorities fro compliance and information.
 
         
 
